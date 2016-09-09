@@ -2,8 +2,8 @@
 Descrição clara e objetiva do seu projeto
 
 ## Equipe Geeks
-1. Nome do integrante: Perfil
-2. Nome do Integrante: Perfil
+1. Nome do integrante: Função
+2. Nome do Integrante: Função
 
 ## Cronograma
 Data | Atividade
