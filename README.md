@@ -1,7 +1,7 @@
-# Nome-do-Projeto
+# Nome do Projeto
 Descrição clara e objetiva do seu projeto
 
-## Equipe Geeks
+## Nome da Equipe
 1. Nome do integrante: Função
 2. Nome do Integrante: Função
 
